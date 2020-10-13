@@ -35,7 +35,9 @@ footer {
   height: 2.5rem;
 }
 img{
-  border-radius: 50%;
+ border-radius: 50%; 
+ 
+ 
 }
 footer p {
   color:white;
