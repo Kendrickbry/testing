@@ -19,7 +19,6 @@ function App() {
       });
     });
   }
-
   return (
     <div>
       <Header />
@@ -38,6 +37,7 @@ function App() {
 
       <Footer />
     </div>
+    
   );
 }
 
