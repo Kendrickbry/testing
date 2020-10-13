@@ -3,12 +3,16 @@ import React from "react";
 
 function Cv() {
 return(
-    <div className="top-container">
     
     <div className="title-text">
-      <h1>Ich bin Bryam.</h1>
-      <h2>a <span className="pro">pro</span>grammer.</h2>
-    </div>
+    
+      <h1> 
+
+      
+      Ich bin Bryam </h1>
+      <img src="/images/bry.jpg"/>
+      <h2>a programmer.</h2>
+    
     </div>
    
 
