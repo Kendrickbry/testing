@@ -25,7 +25,7 @@ header h1 {
 }
 
 footer {
-  background-color: #20B2AA;
+  background-color: #20B2AB;
   position: absolute;
   margin: auto -16px;
   padding: 16px 32px;
@@ -63,7 +63,7 @@ footer p {
   float: right;
   margin-right: 10px;
   border-radius: 50%;
-  color: #20B2AA;
+  color:  #20B2AB;
   border: none;
   width: 36px;
   height: 36px;
